@@ -1,8 +1,11 @@
 | [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/#projects) | [Music](https://aidanasingh.github.io/#music) | [Contact](https://aidanasingh.github.io/#contact) | 
 
-## Bio
+<img src="assets/portrait.jpg" alt="drawing" width="1000"/>
 
-Hello! My name is Aidan, and I am passionate about music, audio, and signal process. Currently in my final undergraduate year at NYU double majoring in computer science and music technology, my recent interests span spatial audio, music information retrieval, and music reccomendation. See my work below!
+
+
+
+Hello! My name is Aidan, and I am passionate about music and audio signal processing. I'm in my final undergraduate year at NYU double majoring in computer science and music technology. My recent interests span spatial audio, music information retrieval, and music reccomendation. See my work below!
 
 ## Projects
 
