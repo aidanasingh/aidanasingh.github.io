@@ -18,6 +18,6 @@ I am pursuing implementing this time-frequency transform ("afSTFT" by Juha Vilka
 
 ## Poster
 
-<img src="assets/Singh_Ambisonics_Encoder_Poster.jpg" width="1000"/>
+<img src="assets/Singh_Ambisonics_Encoder_Poster.jpg" width="850"/>
 
 I explored this topic through my NSF REU position (National Science Foundation Research Experiences for Undergrads) at the NYU Music and Audio Research Laboratory under Dr. Iran Roman.
