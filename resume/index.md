@@ -1,1 +1,1 @@
-| [Homepage](https://aidanasingh.github.io) | [Projects](Projects) | [Music](published_music) | [Resume](resume) | 
+| [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Resume](https://aidanasingh.github.io/resume/) | 

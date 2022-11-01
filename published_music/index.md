@@ -1,19 +1,34 @@
-| [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/#projects) | [Music](https://aidanasingh.github.io/#music) | [Contact](https://aidanasingh.github.io/#contact) | 
+| [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Resume](https://aidanasingh.github.io/resume/) | 
 
 # Published Music
 
 ## **Spellbound** Judy Collins
 
-<img src="assets/spellbound.jpg" width="1000"/>
+Credited as Music Editor for the Album
+
+
+<img src="assets/spellbound.jpg" width="300"/>
+
+___
 
 ## **Space Between Spaces** Hemma The Monarch
 
-<img src="assets/space_between.jpg" width="1000"/>
+Credited as Producer on tracks DRT, Pt. 1 & DRT, Pt. 2
+
+<img src="assets/space_between.jpg" width="300"/>
+
+___
 
 ## **Our House** Hemma The Monarch
 
-<img src="assets/our_house.jpg" width="1000"/>
+Credited as Producer for the Single
 
-## **Get Yourself Some Happy** Lillias
+<img src="assets/our_house.jpg" width="300"/>
 
-<img src="assets/get_happy.jpg" width="1000"/>
+___
+
+## **Get Yourself Some Happy** Lillias White
+
+Credited as String Arranger for the Album
+
+<img src="assets/get_happy.jpg" width="300"/>
