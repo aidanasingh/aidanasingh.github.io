@@ -1,0 +1,1 @@
+| [Homepage](https://aidanasingh.github.io) | [Projects](Projects) | [Music](published_music) | [Resume](resume) | 
