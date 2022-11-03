@@ -2,7 +2,7 @@
 
 <img src="assets/portrait.jpg" alt="portrait" width="300"/>
 
-Hello! My name is Aidan, and I am passionate about music and audio signal processing. I'm in my final undergraduate year at NYU double majoring in computer science and music technology. My recent interests span spatial audio, music information retrieval, and music reccomendation.
+Hello! My name is Aidan, and I am passionate about music and audio signal processing. I'm in my final undergraduate year at NYU double majoring in computer science and music technology. My recent interests span spatial audio, music information retrieval, and music recommendation.
 
 [Instagram](https://www.instagram.com/feed__forward/)
 

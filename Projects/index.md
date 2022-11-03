@@ -2,4 +2,8 @@
 
 [Ambisonics Encoder](reu_encoder)
 
+<img src="assets/spherical_harmonics.png" alt="portrait" width="300"/>
+
 [Sampler Automation](arduino_sampler)
+
+<img src="assets/Sampler_image.png" alt="portrait" width="300"/>
