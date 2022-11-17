@@ -1,4 +1,4 @@
-| [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Resume](https://aidanasingh.github.io/resume/) | 
+| [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Resume](https://aidanasingh.github.io/experience/) | 
 
 # Published Music
 
