@@ -2,7 +2,8 @@
 
 # Published Music
 
-### **Spellbound** Judy Collins
+### Judy Collins
+### **Spellbound**
 
 Credited as Music Editor for the Album
 
@@ -11,7 +12,8 @@ Credited as Music Editor for the Album
 
 ___
 
-### **Space Between Spaces** Hemma The Monarch
+### Hemma The Monarch
+### **Space Between Spaces**
 
 Credited as Producer on tracks DRT, Pt. 1 & DRT, Pt. 2
 
@@ -19,7 +21,8 @@ Credited as Producer on tracks DRT, Pt. 1 & DRT, Pt. 2
 
 ___
 
-### **Our House** Hemma The Monarch
+### Hemma The Monarch
+### **Our House**
 
 Credited as Producer for the Single
 
@@ -27,7 +30,8 @@ Credited as Producer for the Single
 
 ___
 
-### **Get Yourself Some Happy** Lillias White
+### Lillias White
+### **Get Yourself Some Happy**
 
 Credited as String Arranger for the Album
 
