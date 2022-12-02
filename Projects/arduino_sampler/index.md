@@ -2,7 +2,7 @@
 
 # Sampler Automation
 
-I created this device for my final project in the Digital Electronics Technology course in the Music Technology department at NYU. Ambisonics is a multichannel audio format that provides a solution to storing the directionality of audio irrespective of the equipment used for recording or playback. See my ambisonics
+I created this device for my final project in the Digital Electronics Technology course in the Music Technology department at NYU.
 
 This device leverages MIDI control changes and the MIDI arduino library to control Logic X, creating a hardware device that automates several parts of preparing music for resampling.
 
