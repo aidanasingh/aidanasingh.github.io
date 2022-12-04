@@ -1,4 +1,4 @@
-| [Homepage](https://aidanasingh.github.io) | [Projects](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Experience](https://aidanasingh.github.io/experience/) | 
+| [Homepage](https://aidanasingh.github.io) | [**Projects**](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Experience](https://aidanasingh.github.io/experience/) | 
 
 # Ambisonics Encoder
 
@@ -8,7 +8,7 @@ Ambisonics is a multichannel audio format that provides a solution to storing th
 
 ## Task
 
-To take microphone array datasets and convert them to ambisonics B-format, I pursued coding an encoder that takes features of the microphone array as arguments rather than being array-specific. Since this encoding problem was previously solved for in the context of audio plug-ins by Leo McCormack with Array2SH, my contribution is translating his code to python for dataset aggregation.
+To take microphone array datasets and convert them to ambisonics HOA B-format, I pursued coding an encoder that takes features of the microphone array as arguments rather than being array-specific. Since this encoding problem was previously solved for in the context of audio plug-ins by Leo McCormack with Array2SH, my contribution is translating his code to python for dataset aggregation.
 
 ## Outcomes
 
