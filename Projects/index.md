@@ -8,6 +8,10 @@
 
 [<img src="assets/spherical_harmonics.png" alt="portrait" width="300"/>](reu_encoder)
 
+[Ambisonics Binaural Decoding](foa_binaural_decoder)
+
+[<img src="assets/foa_cover.png" alt="portrait" width="300"/>](foa_binaural_decoder)
+
 [Sampler Automation](arduino_sampler)
 
 [<img src="assets/Sampler_image.png" alt="portrait" width="300"/>](arduino_sampler)
