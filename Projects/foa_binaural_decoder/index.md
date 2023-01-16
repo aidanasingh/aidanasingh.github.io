@@ -2,9 +2,11 @@
 
 # Binaurally decoding first order ambisonics
 
-This is my final project for the course '3D Audio' in the Music Technology department at NYU.
 
-[This project](https://github.com/aidanasingh/foa_decoding) includes a jupyter notebook with functions to render virtual speaker array channels, and associated functions that render these channels to a binaural stereo signal. 
+
+[This project](https://github.com/aidanasingh/foa_decoding) includes a jupyter notebook with functions to render virtual speaker array channels, and associated functions that render these channels to a binaural stereo signal. In the paper, different arrangements of virtual speaker arrays for binaural decoding are compared to a binaural decoder VST.
+
+This is my final project for the course '3D Audio' in the Music Technology department at NYU.
 
 ## Paper
 

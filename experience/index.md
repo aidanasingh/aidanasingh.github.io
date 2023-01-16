@@ -2,7 +2,7 @@
 
 # Resume
 
-<img src="assets/Aidan_Singh_Resume_Website.jpg" width="850"/>
+<img src="assets/Aidan Singh Resume 2023.jpg" width="850"/>
 
 
 
