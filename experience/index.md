@@ -8,6 +8,8 @@
 
 # Select Coursework
 
+Currently enrolled in: Artificial Intelligence, Introduction to Machine Learning, Digital Signal Theory, Database Management and Analysis
+
 ### Introduction to Digital Signal Theory
 
 Graduate course in the department of Music Technology at NYU. Theoretical class overviewing sampling theory, time & frequency domain convolution, FIR & IIR filtering, and DFT, FFT, & STFT algorithms. Practical lab portion taught in python.
