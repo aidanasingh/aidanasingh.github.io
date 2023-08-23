@@ -2,7 +2,7 @@
 
 [Predicting Song Genre with Spotify Metadata](genre_prediction)
 
-[<img src="assets/genre_cover.png" alt="portrait" width="300"/>](afSTFT)
+[<img src="assets/genre_cover.png" alt="portrait" width="300"/>](genre_prediction)
 
 [afSTFT Python Implementation](afSTFT) (In progress)
 
