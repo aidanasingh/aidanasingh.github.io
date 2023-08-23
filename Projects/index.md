@@ -1,5 +1,9 @@
 | [Homepage](https://aidanasingh.github.io) | [**Projects**](https://aidanasingh.github.io/Projects/) | [Music](https://aidanasingh.github.io/published_music/) | [Experience](https://aidanasingh.github.io/experience/) | 
 
+[Predicting Song Genre with Spotify Metadata](genre_prediction)
+
+[<img src="assets/genre_cover.png" alt="portrait" width="300"/>](afSTFT)
+
 [afSTFT Python Implementation](afSTFT) (In progress)
 
 [<img src="assets/afSTFT_chart.png" alt="portrait" width="300"/>](afSTFT)
