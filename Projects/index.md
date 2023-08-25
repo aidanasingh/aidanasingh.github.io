@@ -20,10 +20,3 @@
 
 [<img src="assets/Sampler_image.png" alt="portrait" width="300"/>](arduino_sampler)
 
-[Multithreaded Run Length Encoder](run_length_encoder)
-
-[<img src="assets/rle_cover.png" alt="portrait" width="300"/>](run_length_encoder)
-
-[Shell](shell)
-
-[<img src="assets/shell_cover.png" alt="portrait" width="300"/>](shell)

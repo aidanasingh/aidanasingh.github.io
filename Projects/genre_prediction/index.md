@@ -2,7 +2,7 @@
 
 # Predicting song genre with Spotify Metadata
 
-This project presents an AdaBoost model to predict the genre of music given Spotify audio features. The model was able to achieve above .78 area under receiver-operating characteristic scores for all classes, and above .9 for more than half of the classes.
+This project presents an AdaBoost model to predict the genre of music given Spotify song features. The model was able to achieve above .78 area under receiver-operating characteristic scores for all classes, and above .9 for more than half of the classes.
 
 ## Methodology
 
@@ -18,7 +18,7 @@ I used the SKlearn AdaBoost model, with decision tree classifiers, a max depth o
 
 The model performance is measured using AUROC as well as a confusion matrix.
 
-<img src="assets/metrics.jpg" width="850"/>
+<img src="assets/metrics.jpg" width="400"/>
 
 # Conclusions
 
