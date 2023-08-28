@@ -2,7 +2,7 @@
 
 <img src="assets/portrait.jpg" alt="portrait" width="300"/>
 
-My name is Aidan, and my interests span music, audio, data, and programming. I'm in my final undergraduate year at NYU double majoring in computer science and music technology. My recent interests are spatial audio, music information retrieval, and music recommendation.
+I am a programmer and musician with a passion for audio. As a classically trained violinist, my experience has taken me from performance to recording, and finally to designing technology that can be heard. I am pursuing a M.Eng. in Electrical and Computer Engineering at Cornell Tech to gain skills for shaping the next generation of technology, focusing on machine learning and signal processing. Having a multi-cultural background, I respect everyone for how their cultural experience has informed them.
 
 
 [LinkedIn](https://www.linkedin.com/in/aidan-singh-2108b420b/)
