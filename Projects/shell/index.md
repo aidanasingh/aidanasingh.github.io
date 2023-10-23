@@ -2,6 +2,4 @@
 
 # Shell
 
-[This program](https://github.com/aidanasingh/operating-systems-exercises/blob/main/shell/shell.c) is a command-line interface (a shell) that can be used for directory, file, and process creation, deletion, and editing.
-
-Download the file, compile with `gcc shell.c -o shell` and run `./shell` ! It's that simple!
+This program is a command-line interface (a shell) that can be used for directory, file, and process creation, deletion, and editing. The code is available upon request but is not open source as it was created for an assignment in the Operating Systems class at NYU Courant.
