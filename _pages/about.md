@@ -14,7 +14,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 Hi, I’m Aidan — a programmer with a passion for data driven processes and audio. I am currently seeking a full time software engineering role.
 
 My experience thusfar spans software in the music and audio industries leveraging digital signal processing, data engineering, and machine learning. As an undergraduate researcher at NYU's (Music and Audio Research Lab)[https://steinhardt.nyu.edu/marl], I leveraged algorithms to aggregate spatial audio data for machine learning. At (Universal Music Group)[https://www.universalmusic.com], I programmed a production data pipeline for ingesting streaming data from Meta, and analyzed Google Cloud Platform storage proposing cost-saving restructuring that was later implemented. At Cornell Tech's (startup studio)[https://tech.cornell.edu/studio/curriculum/], I created a GPT wrapper to help music supervisors find the best songs for sync licensing opportunities in. At TulipAI, I supervised the creation of a cultural audio dataset and literature review for fine tuning Meta's audiocraft models. Using digital technology to create impact in the music space has galvanized my excitement for developing tools with emerging ML and cloud technologies.
