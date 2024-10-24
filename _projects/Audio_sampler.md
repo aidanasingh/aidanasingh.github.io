@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Digital Audio Sampler
+description: Made with Arduino, Logic X, C++
+img: assets/img/sampler_image.jpg
 importance: 1
-category: work
+category: audio
 related_publications: true
 ---
 
