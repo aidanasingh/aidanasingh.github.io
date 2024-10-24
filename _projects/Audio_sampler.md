@@ -2,10 +2,9 @@
 layout: page
 title: Digital Audio Sampler
 description: Made with Arduino, Logic X, C++
-img: assets/img/sampler_image.jpg
+img: assets/img/sampler_image.png
 importance: 1
 category: audio
-related_publications: true
 ---
 
 # Audio Sampler
