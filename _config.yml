@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  As of October 2024, I am redesigning my website from the ground up. While my 'about' page is accurate, stay tuned for more pages.
+  My preferred contact methods are Linkedin message and email.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -229,6 +229,7 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/blog.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
