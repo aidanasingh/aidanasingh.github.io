@@ -99,14 +99,14 @@
       "name": "Safe Zone",
       "date": "2024",
       "issuer": "Cornell University",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "CPR & AED",
       "date": "2018",
       "issuer": "American Red Cross",
 
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "skills": [
