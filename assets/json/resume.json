@@ -31,6 +31,14 @@
   ],
   "work": [
     {
+      "name": "Amazon Web Services",
+      "position": "Software Development Engineer - AI",
+      "url": "https://example.com",
+      "startDate": "2024-12",
+      "endDate": "Current",
+      "highlights": ["SDE at AWS Bedrock Evaluation. My team builds tools to evaluate the performance of our foundation models (i.e. Claude, LLAMA, Titan) within our customers use cases. These include programmatic, human based, model as a judge, and knowledge base/RAG evaluations."]
+    },
+    {
       "name": "TulipAI",
       "position": "AI Audio Scientist",
       "url": "https://example.com",
