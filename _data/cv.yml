@@ -13,14 +13,12 @@
   contents:
     - title: Masters
       institution: Cornell Tech, Cornell University
-      year: 2024
       description:
         - Electrical and Computer Engineering
         - Founder of Audio Tech Interest Group (Club)
 
     - title: Bachelors
       institution: New York University
-      year: 2023
       description:
         - Major in Computer Science
         - Major in Music Technology
@@ -31,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: ML Engineer
+      institution: TulipAI
+      year: 2024
       description:
         - Description 1.
         - Description 2.

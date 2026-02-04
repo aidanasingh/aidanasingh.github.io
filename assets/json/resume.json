@@ -33,10 +33,10 @@
     {
       "name": "Amazon Web Services",
       "position": "Software Development Engineer - AI",
-      "url": "https://example.com",
+      "url": "https://aws.amazon.com/bedrock/",
       "startDate": "2024-12",
       "endDate": "Current",
-      "highlights": ["SDE at AWS Bedrock Evaluation. My team builds tools to evaluate the performance of our foundation models (i.e. Claude, LLAMA, Titan) within our customers use cases. These include programmatic, human based, model as a judge, and knowledge base/RAG evaluations."]
+      "highlights": []
     },
     {
       "name": "TulipAI",
@@ -44,7 +44,7 @@
       "url": "https://example.com",
       "startDate": "2024-01",
       "endDate": "2024-05",
-      "highlights": ["Conducted literature review for audio generation and fine tuning, designed fine-tuning method for Meta’s audio-craft models","Authored Python and Shell scripts to download audio from the library of congress (archive.org api)","Designed coding and data collection tasks for undergrad interns, exercised asynchronous communication & technical reviews"]
+      "highlights": []
     },
     {
       "name": "Universal Music Group",
@@ -52,12 +52,7 @@
       "url": "https://www.universalmusic.com",
       "startDate": "2022-06",
       "endDate": "2022-08",
-      "highlights": [
-        "Programmed a production incremental data pipeline (ETL) to ingest music streaming metrics from Meta",
-        "Performed detailed analysis on Google Cloud Platform (GCP) Storage to identify potential optimizations saving $100k/year",
-        "Collaborated effectively with another intern and engineering team using data lake exceeding 10 Petabytes",
-        "Utilized cloud-based technologies for data: data pipelines, data architecture, data governance (security), internal applications"
-    ]
+      "highlights": []
     },
     {
       "name": "NYU Music and Audio Research Lab",
@@ -65,22 +60,14 @@
       "url": "https://steinhardt.nyu.edu/marl",
       "startDate": "2021-11",
       "endDate": "2022-05",
-      "highlights": [
-        "Contributed to micarraylib, an open-source Python library for audio data aggregation in machine learning pipelines",
-        "Translated audio algorithms from ambisonic encoder ‘Array2SH’ from C/C++ to Python with unit testing",
-        "Participated in National Science Foundation REU Program, advised by Iran R. Roman under Juan P. Bello"
-    ]
+      "highlights": []
     },
     {
       "name": "Alan Silverman",
       "position": "Audio Engineer",
       "startDate": "2021-05",
       "endDate": "2021-07",
-      "highlights": [
-        "Used digital audio tools to modify recordings’ pitch and timing for Grammy winning folk artist Judy Collins",
-        "Edited audio files (piano stems) in 8 songs, splicing and compiling multiple files with creative discretion",
-        "Collaborated with 80+ time Grammy nominated and winning audio engineer Alan Silverman"
-    ]    
+      "highlights": []   
     },
     {
       "name": "Old Mill Road Recording",
@@ -88,11 +75,7 @@
       "url": "https://www.oldmillroadrecording.com",
       "startDate": "2020-08",
       "endDate": "2021-02",
-      "highlights": [
-        "Operated analog and digital audio equipment with a focus on signal flow for recording and outboard-processing",
-        "Prepared microphones for drums, piano, and guitar. Set rack equipment and recall sheets",
-        "Assisted Grammy award winning audio engineer Ben Arrindell, credited on Emmy winner Lillias White’s first studio album"
-    ]
+      "highlights": []
     }
   ],
   "certificates": [
